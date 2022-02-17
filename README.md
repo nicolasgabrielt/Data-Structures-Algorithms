@@ -1,7 +1,7 @@
 ### Data Structures & Algorithms
 
-1. Arrays & Strings
-    - Sliding Window
+1. [Arrays & Strings](https://github.com/nicolasgabrielt/Data-Structures-Algorithms/blob/main/solutions-descriptions/Arrays/arrays.md#arrays)
+    - [Sliding Window](https://github.com/nicolasgabrielt/Data-Structures-Algorithms/blob/main/solutions-descriptions/Arrays/arrays.md#sliding-window)
     - Two Pointers
     - Prefix Sum
     - Merge Intervals
