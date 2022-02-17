@@ -1,6 +1,6 @@
 ### Arrays
 
-- [Sliding Window]((https://github.com/nicolasgabrielt/Data-Structures-Algorithms/blob/main/solutions-descriptions/Arrays/arrays.md#sliding-window))
+- [Sliding Window](https://github.com/nicolasgabrielt/Data-Structures-Algorithms/blob/main/solutions-descriptions/Arrays/arrays.md#sliding-window)
 - Two Pointers
 - Prefix Sum
 - Merge Intervals
