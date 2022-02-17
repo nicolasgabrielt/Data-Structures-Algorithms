@@ -1,0 +1,15 @@
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/bin/Debug/net6.0/csharp-solutions
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/bin/Debug/net6.0/csharp-solutions.deps.json
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/bin/Debug/net6.0/csharp-solutions.runtimeconfig.json
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/bin/Debug/net6.0/csharp-solutions.dll
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/bin/Debug/net6.0/ref/csharp-solutions.dll
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/bin/Debug/net6.0/csharp-solutions.pdb
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.csproj.AssemblyReference.cache
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.AssemblyInfoInputs.cache
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.AssemblyInfo.cs
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.csproj.CoreCompileInputs.cache
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.dll
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/ref/csharp-solutions.dll
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.pdb
+/Users/nicolasgabriel/code/algorithms-studies/csharp-solutions/obj/Debug/net6.0/csharp-solutions.genruntimeconfig.cache

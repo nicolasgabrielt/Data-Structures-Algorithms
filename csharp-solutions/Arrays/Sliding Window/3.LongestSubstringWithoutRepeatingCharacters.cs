@@ -1,10 +1,11 @@
 /** 
 Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-Author: Nicolas Gabriel
-Date: 16/02/21
+Author: Nicolas Taveira
+Date: 14/02/21
 **/
+
+namespace LongestSubstringWithoutRepeatingCharacters{
 public class Solution {
-    
     public int LengthOfLongestSubstring(string s) {
         if(s.Length == 0) return 0;
         
@@ -23,4 +24,6 @@ public class Solution {
         
         return maxLength;
     }
+}
+
 }
