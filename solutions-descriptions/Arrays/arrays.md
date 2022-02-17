@@ -1,7 +1,15 @@
 ### Arrays
 
-#### Sliding Window
+- [Sliding Window]((https://github.com/nicolasgabrielt/Data-Structures-Algorithms/blob/main/solutions-descriptions/Arrays/arrays.md#sliding-window))
+- Two Pointers
+- Prefix Sum
+- Merge Intervals
+- Subsets
+- Sliding Window
+- K way Merge
+- Binary Search
 
+#### Sliding Window
 ##### [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ```
@@ -52,7 +60,7 @@ def lengthOfLongestSubstring(self, s: str) -> int:
     return maxLength
 ```
 
-##### [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+##### [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 ```
 Technique: Sliding Window
